@@ -1,12 +1,6 @@
-hello hello. i’m braelyn
+## hi i’m braelyn
 
-_shipping code, building cool things, chasing life._
-
-I’m a software engineer and co-founder passionate about developer tools, scalable AI systems, and clean, practical design.
-
----
-
-## What I’m Building
+i’m a software engineer and co-founder passionate about developer tools, scalable AI systems, and clean, practical design.
 
 Here are some projects I’m actively involved in:
 
@@ -26,11 +20,3 @@ I contribute to these tools to make AI development smoother, more transparent, a
 ### More
 [personal interests](./PERSONAL.md)
 [skills](./SKILLS.md)
-
-## 📫 Connect
-
-Let’s build something interesting:
-
-- **Twitter / X:** https://x.com/braelyn_ai  
-- **Instagram:** https://www.instagram.com/braelyn.b__
-
